@@ -1,0 +1,18 @@
+{
+  "name": "reactjs1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reactjs1"
+  ],
+  "author": "duyet",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^4.0.1"
+  }
+}
